@@ -1,2 +1,2 @@
-Autor: Sebastian Masternak
-Kurs Technologie DevOps
+Autor: Sebastian masternak
+Kurs: Technologie DevOps
